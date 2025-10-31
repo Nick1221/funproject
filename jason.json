@@ -1,0 +1,76 @@
+{
+  "activities": [
+    {
+      "category": "basketball",
+      "name": "Outdoor Basketball Coaching",
+      "description": "Teach her the basics or play HORSE at a sunny outdoor court.",
+      "vibes": ["playful", "active", "flirty", "sunny"]
+    },
+    {
+      "category": "basketball",
+      "name": "Indoor Basketball Session",
+      "description": "Book a court and keep the energy up even if it’s raining.",
+      "vibes": ["active", "cozy", "rainy", "competitive"]
+    },
+    {
+      "category": "arcade",
+      "name": "Arcade Challenge at B. Lucky & Sons",
+      "description": "Play retro games, win tickets, and flirt over air hockey.",
+      "vibes": ["playful", "competitive", "rainy", "quirky"]
+    },
+    {
+      "category": "arcade",
+      "name": "Fortress Sydney Game Lounge",
+      "description": "Board games, arcade machines, and chill booths for rainy-day fun.",
+      "vibes": ["cozy", "playful", "rainy", "nerdy"]
+    },
+    {
+      "category": "markets",
+      "name": "Carriageworks Farmers Market",
+      "description": "Wander through fresh produce and artisan stalls on a sunny morning.",
+      "vibes": ["chill", "sunny", "curious", "local"]
+    },
+    {
+      "category": "markets",
+      "name": "Newtown Vintage Hunt",
+      "description": "Find quirky treasures and challenge each other to weird-item missions.",
+      "vibes": ["creative", "playful", "sunny", "hipster"]
+    },
+    {
+      "category": "cafe",
+      "name": "Edition Roasters (Darling Square)",
+      "description": "Moody Japanese-inspired café perfect for rainy-day chats.",
+      "vibes": ["cozy", "intimate", "rainy", "stylish"]
+    },
+    {
+      "category": "cafe",
+      "name": "Single O (Surry Hills)",
+      "description": "Sunny courtyard café with great iced drinks and savory bites.",
+      "vibes": ["chill", "sunny", "casual", "refreshing"]
+    },
+    {
+      "category": "walks",
+      "name": "Barangaroo Reserve Walk",
+      "description": "Harbour views and shaded paths for a scenic stroll.",
+      "vibes": ["romantic", "sunny", "chill", "scenic"]
+    },
+    {
+      "category": "walks",
+      "name": "Wendy’s Secret Garden",
+      "description": "Hidden greenery and winding paths for quiet connection.",
+      "vibes": ["intimate", "sunny", "romantic", "peaceful"]
+    },
+    {
+      "category": "sunset watching",
+      "name": "Observatory Hill Sunset",
+      "description": "Panoramic views and grassy slopes for a golden-hour moment.",
+      "vibes": ["romantic", "sunny", "chill", "scenic"]
+    },
+    {
+      "category": "sunset watching",
+      "name": "Coogee Rooftop Drinks",
+      "description": "Sip something savory while watching the sky shift over the ocean.",
+      "vibes": ["flirty", "sunny", "relaxed", "stylish"]
+    }
+  ]
+}
