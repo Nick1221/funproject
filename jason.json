@@ -4,73 +4,177 @@
       "category": "basketball",
       "name": "Outdoor Basketball Coaching",
       "description": "Teach her the basics or play HORSE at a sunny outdoor court.",
-      "vibes": ["playful", "active", "flirty", "sunny"]
+      "vibes": ["playful", "active", "flirty", "sunny"],
+      "location": "Various",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "basketball",
       "name": "Indoor Basketball Session",
-      "description": "Book a court and keep the energy up even if it’s raining.",
-      "vibes": ["active", "cozy", "rainy", "competitive"]
+      "description": "Book a court and keep the energy up even if it's raining.",
+      "vibes": ["active", "cozy", "rainy", "competitive"],
+      "location": "Various",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "arcade",
       "name": "Arcade Challenge at B. Lucky & Sons",
       "description": "Play retro games, win tickets, and flirt over air hockey.",
-      "vibes": ["playful", "competitive", "rainy", "quirky"]
+      "vibes": ["playful", "competitive", "rainy", "quirky"],
+      "location": "CBD",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "arcade",
       "name": "Fortress Sydney Game Lounge",
       "description": "Board games, arcade machines, and chill booths for rainy-day fun.",
-      "vibes": ["cozy", "playful", "rainy", "nerdy"]
+      "vibes": ["cozy", "playful", "rainy", "nerdy"],
+      "location": "CBD",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "markets",
-      "name": "Carriageworks Farmers Market",
+      "name": "Kirribilli Farmers Market",
       "description": "Wander through fresh produce and artisan stalls on a sunny morning.",
-      "vibes": ["chill", "sunny", "curious", "local"]
+      "vibes": ["chill", "sunny", "curious", "local"],
+      "location": "Lower North Shore",
+      "availableDays": ["Saturday"]
     },
     {
       "category": "markets",
       "name": "Newtown Vintage Hunt",
       "description": "Find quirky treasures and challenge each other to weird-item missions.",
-      "vibes": ["creative", "playful", "sunny", "hipster"]
+      "vibes": ["creative", "playful", "sunny", "hipster"],
+      "location": "Inner West",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "cafe",
       "name": "Edition Roasters (Darling Square)",
       "description": "Moody Japanese-inspired café perfect for rainy-day chats.",
-      "vibes": ["cozy", "intimate", "rainy", "stylish"]
+      "vibes": ["cozy", "intimate", "rainy", "stylish"],
+      "location": "CBD",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "cafe",
-      "name": "Single O (Surry Hills)",
-      "description": "Sunny courtyard café with great iced drinks and savory bites.",
-      "vibes": ["chill", "sunny", "casual", "refreshing"]
+      "name": "Azuki Bakery",
+      "description": "Japanese bakery known for their curry pan",
+      "vibes": ["chill", "sunny", "casual", "refreshing", "japanese"],
+      "location": "Inner West",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "walks",
       "name": "Barangaroo Reserve Walk",
       "description": "Harbour views and shaded paths for a scenic stroll.",
-      "vibes": ["romantic", "sunny", "chill", "scenic"]
+      "vibes": ["romantic", "sunny", "chill", "scenic"],
+      "location": "City",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "walks",
-      "name": "Wendy’s Secret Garden",
+      "name": "Wendy's Secret Garden",
       "description": "Hidden greenery and winding paths for quiet connection.",
-      "vibes": ["intimate", "sunny", "romantic", "peaceful"]
+      "vibes": ["intimate", "sunny", "romantic", "peaceful"],
+      "location": "City",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "markets",
+      "name": "Carriageworks Farmers Market",
+      "description": "Explore fresh produce, artisan foods, and local crafts in a vibrant setting.",
+      "vibes": ["local", "curious", "foodie", "lively"],
+      "location": "Inner West",
+      "availableDays": ["Saturday"]
+    },
+    {
+      "category": "markets",
+      "name": "Glebe Markets",
+      "description": "Hunt for vintage clothes, handmade jewelry, and enjoy live music.",
+      "vibes": ["quirky", "creative", "sunny", "hipster"],
+      "location": "Inner West",
+      "availableDays": ["Saturday"]
+    },
+    {
+      "category": "cafe",
+      "name": "The Grounds of Alexandria",
+      "description": "Lush gardens, great coffee, and delicious brunch options.",
+      "vibes": ["stylish", "sunny", "lively", "romantic"],
+      "location": "Inner South",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "cafe",
+      "name": "Single O (Surry Hills)",
+      "description": "Trendy spot for specialty coffee and people-watching.",
+      "vibes": ["casual", "hipster", "sunny", "refreshing"],
+      "location": "Inner City",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "cafe",
+      "name": "Cuckoo Callay (Newtown)",
+      "description": "Funky café with creative brunch dishes and a fun vibe.",
+      "vibes": ["playful", "creative", "casual", "local"],
+      "location": "Inner West",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "walks",
+      "name": "Coogee to Bondi Coastal Walk",
+      "description": "Iconic clifftop walk with stunning ocean views and beaches along the way.",
+      "vibes": ["scenic", "active", "sunny", "romantic"],
+      "location": "Eastern Suburbs",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "walks",
+      "name": "Royal Botanic Garden Sydney",
+      "description": "Wander through themed gardens and enjoy harbour views.",
+      "vibes": ["peaceful", "romantic", "sunny", "local"],
+      "location": "CBD",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "walks",
+      "name": "Hermitage Foreshore Track",
+      "description": "Short bushwalk with harbour views and hidden beaches.",
+      "vibes": ["scenic", "adventurous", "chill", "sunny"],
+      "location": "Eastern Suburbs",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "outdoor activities",
+      "name": "Kayaking on Sydney Harbour",
+      "description": "Paddle together and enjoy the city skyline from the water.",
+      "vibes": ["adventurous", "scenic", "active", "sunny"],
+      "location": "Harbour",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "creative",
+      "name": "Pottery Class at Clay Sydney",
+      "description": "Get creative and a little messy making pottery together.",
+      "vibes": ["creative", "playful", "hands-on", "cozy"],
+      "location": "Inner City",
+      "availableDays": ["Saturday", "Sunday"]
+    },
+    {
+      "category": "outdoor activities",
+      "name": "Picnic at Centennial Park",
+      "description": "Pack snacks and relax under the trees or by the pond.",
+      "vibes": ["chill", "romantic", "sunny", "local"],
+      "location": "Eastern Suburbs",
+      "availableDays": ["Saturday", "Sunday"]
     },
     {
       "category": "sunset watching",
       "name": "Observatory Hill Sunset",
       "description": "Panoramic views and grassy slopes for a golden-hour moment.",
-      "vibes": ["romantic", "sunny", "chill", "scenic"]
-    },
-    {
-      "category": "sunset watching",
-      "name": "Coogee Rooftop Drinks",
-      "description": "Sip something savory while watching the sky shift over the ocean.",
-      "vibes": ["flirty", "sunny", "relaxed", "stylish"]
+      "vibes": ["romantic", "sunny", "chill", "scenic"],
+      "location": "CBD",
+      "availableDays": ["Saturday", "Sunday"]
     }
   ]
 }
